@@ -15,9 +15,6 @@
 
 **ProjectHub** is a full-stack, production-ready web application designed to help developers showcase their projects. Built with the latest tools and technologies, this project serves as an excellent example of modern web development practices.
 
-This project is part of our **YouTube tutorial** series. Watch the full guide to build it step-by-step:
-
-📺 **[Watch Now: Build & Deploy ProjectHub in Hindi](https://youtu.be/9koAAfPCBxM)**
 
 ![ProjectHub Thumbnail](https://raw.githubusercontent.com/dhruvarne22/ProjectHubYT/refs/heads/main/thumb.png)
 
@@ -84,13 +81,6 @@ This project is part of our **YouTube tutorial** series. Watch the full guide to
 
   
 
-### 📺 YouTube Tutorial
-
-  
-
-This project is part of a step-by-step video tutorial on our **YouTube channel**. Learn how to build and deploy this app with hands-on guidance:
-
-📺 **[Watch the Full Tutorial](https://youtu.be/9koAAfPCBxM)**
 
   
 
@@ -122,15 +112,6 @@ This project is licensed under the **MIT License**. Use it freely, with proper a
 
   
 
-### 🤝 Connect with Me
-
-  
-
-- 🌐 **Portfolio**: [DhananjayArne](https://dhananjayarne.vercel.app/)
-
-- 📺 **YouTube**: [CodeWithDhruv](https://www.youtube.com/@CodeWithDhruv)
-
-- 📩 **Email**: [codewithdhruv22@gmail.com](mailto:codewithdhruv22@gmail.com)
 
   
 
