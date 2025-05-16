@@ -16,10 +16,6 @@
 **ProjectHub** is a full-stack, production-ready web application designed to help developers showcase their projects. Built with the latest tools and technologies, this project serves as an excellent example of modern web development practices.
 
 
-![ProjectHub Thumbnail](https://raw.githubusercontent.com/dhruvarne22/ProjectHubYT/refs/heads/main/thumb.png)
-
-  
-  
 
 ---
 
